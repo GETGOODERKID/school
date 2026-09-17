@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Play Slope</title>
+  <desc id="desc">Click to open the Slope game.</desc>
+  <a href="https://cdn.jsdelivr.net/gh/GETGOODERKID/school@main/index.html" target="_top" rel="noopener">
+    <rect width="800" height="450" rx="18" fill="#111"/>
+    <rect x="3" y="3" width="794" height="444" rx="15" fill="none" stroke="#333" stroke-width="6"/>
+    <text x="400" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="64" font-weight="700" fill="white">SLOPE</text>
+    <text x="400" y="275" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#ccc">CLICK TO PLAY</text>
+    <circle cx="400" cy="335" r="7" fill="white"/>
+  </a>
+</svg>
